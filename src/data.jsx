@@ -4,6 +4,8 @@ import tour3 from './assets/images/tour-3.jpeg'
 import tour4 from './assets/images/tour-4.jpeg'
 import tour5 from './assets/images/tour-5.jpeg'
 import tour6 from './assets/images/tour-6.jpeg'
+
+
 export const pageLinks =[
     {id: 1, href: '#home', text: 'home'},
     {id: 2, href: '#about', text: 'about'},
@@ -15,7 +17,10 @@ export const socialLink =[
     {id: 1, href: 'https://www.facebook.com', icon: 'fab fa-facebook'},
     {id: 1, href: 'https://www.twitter.com', icon: 'fab fa-twitter'},
     {id: 1, href: 'https://www.twitter.com', icon: 'fab fa-squarespace'},
+    
 ]
+
+//'fab fa-facebook'
 
 export const service =[
     {
